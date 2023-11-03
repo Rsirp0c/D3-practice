@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  @font-face {
+    font-family: 'Bree Serif';
+    src: url("static/BreeSerif-Regular.otf");
+  }
+
+  h1 {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    font-family: 'Bree Serif';
+    font-size: 35px;
+  }
+
+  #slider {
+    position: absolute;
+    left: 50%;
+    margin-left: -300px;
+    bottom: 50px;
+    width: 800px;
+    height: 70px;
+  }
+
+  svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+
+  path {
+    stroke: #666;
+    fill: none;
+    fill-opacity: 0.6;
+    stroke-width: 1px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  #boundary path {
+    stroke-dasharray: 3, 5;
+  }
