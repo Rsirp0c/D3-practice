@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Bree Serif';
+  src: url("static/BreeSerif-Regular.otf");
+}
+
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  font-family: 'Bree Serif', serif;
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
+}
