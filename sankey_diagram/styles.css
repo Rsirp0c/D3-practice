@@ -3,6 +3,13 @@
   src: url("static/BreeSerif-Regular.otf");
 }
 
+#svg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 .node rect {
   cursor: move;
   fill-opacity: .9;
