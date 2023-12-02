@@ -5,3 +5,7 @@ Collecting D3.js visualization works
 
 ## Sankey-Diagram
 <img width="840"  src="https://github.com/Rsirp0c/D3-practice/blob/main/sankey_diagram/static/Screenshot.png">
+
+## Treemap
+<img width="840"  src="https://github.com/Rsirp0c/D3-practice/blob/main/treemap/Screenshot.png">
+
