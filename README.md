@@ -9,3 +9,5 @@ Collecting D3.js visualization works
 ## Treemap
 <img width="840"  src="https://github.com/Rsirp0c/D3-practice/blob/main/treemap/Screenshot.png">
 
+## Heatmap
+<img width="840"  src="https://github.com/Rsirp0c/D3-practice/blob/main/heatmap/Screenshot.png">
